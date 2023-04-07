@@ -3,8 +3,7 @@
 - [x] Implement Business Logic
 - [x] Implement Tests
 - [x] Add Postman Collection
-- [ ] Dockerise Application
-- [ ] Fix README(links/etc.)
+- [x] Dockerise Application
 
 ## Task Description
 Напишите спринг сервис. Есть список контактов: Петров там, Иванов, Сидоров. 
@@ -15,7 +14,7 @@
 ( рест, и dto) ; интересует классический флоу
 
 ## How To Run And Test
-1. Run `docker-compose up` in the project root dir
+1. Run `docker-compose up` in the project's root dir
 2. Import [Postman Collection](info-polus-task-collection.postman_collection.json)
 3. Try to send requests(make sure to use variables provided by collection)
 
