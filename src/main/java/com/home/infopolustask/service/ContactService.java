@@ -19,7 +19,7 @@ public class ContactService {
                         new NotFoundException("Contact with id=%d not found".formatted(contactId)));
     }
 
-    public List<ContactDTO> getAll() {
+    public List<ContactDTO> getAllContacts() {
         return StaticDatabase.getAll();
     }
 }

@@ -21,6 +21,6 @@ public class ContactController {
 
     @GetMapping("get")
     public List<ContactDTO> get() {
-        return contactService.getAll();
+        return contactService.getAllContacts();
     }
 }

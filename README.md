@@ -1,7 +1,7 @@
 ### ✅ ToDo
 
 - [x] Implement Business Logic
-- [ ] Implement Tests
+- [x] Implement Tests
 - [x] Add Postman Collection
 - [ ] Dockerise Application
 - [ ] Fix README(links/etc.)
